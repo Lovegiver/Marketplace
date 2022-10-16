@@ -1,4 +1,4 @@
-package com.citizenweb.marketplace.model.test.model;
+package com.citizenweb.marketplace.model;
 
 import com.citizenweb.marketplace.model.enums.VolumeUnitType;
 import com.citizenweb.marketplace.model.enums.WeightUnitType;

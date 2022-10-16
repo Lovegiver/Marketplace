@@ -1,4 +1,4 @@
-package com.citizenweb.marketplace.model.test.model;
+package com.citizenweb.marketplace.model;
 
 import com.citizenweb.marketplace.model.enums.ItemContainerType;
 import com.citizenweb.marketplace.model.enums.OrderItemStatus;
@@ -12,11 +12,11 @@ import com.citizenweb.marketplace.model.model.OrderItem;
 import com.citizenweb.marketplace.model.model.Product;
 import com.citizenweb.marketplace.model.model.Seller;
 import com.citizenweb.marketplace.model.model.User;
-import com.citizenweb.marketplace.model.test.model.utils.CartOrderBuilder;
-import com.citizenweb.marketplace.model.test.model.utils.EntityBuilderService;
-import com.citizenweb.marketplace.model.test.model.utils.OrderItemBuilder;
-import com.citizenweb.marketplace.model.test.model.utils.ProductBuilder;
-import com.citizenweb.marketplace.model.test.model.utils.UserBuilder;
+import com.citizenweb.marketplace.model.utils.CartOrderBuilder;
+import com.citizenweb.marketplace.model.utils.EntityBuilderService;
+import com.citizenweb.marketplace.model.utils.OrderItemBuilder;
+import com.citizenweb.marketplace.model.utils.ProductBuilder;
+import com.citizenweb.marketplace.model.utils.UserBuilder;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.slf4j.Logger;

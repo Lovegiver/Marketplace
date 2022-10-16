@@ -1,4 +1,4 @@
-package com.citizenweb.marketplace.model.test.model;
+package com.citizenweb.marketplace.model;
 
 import com.citizenweb.marketplace.model.enums.UserType;
 import com.citizenweb.marketplace.model.enums.VolumeUnitType;
@@ -11,9 +11,9 @@ import com.citizenweb.marketplace.model.model.ProductPicture;
 import com.citizenweb.marketplace.model.model.Seller;
 import com.citizenweb.marketplace.model.model.User;
 import com.citizenweb.marketplace.model.model.UserPicture;
-import com.citizenweb.marketplace.model.test.model.utils.EntityBuilderService;
-import com.citizenweb.marketplace.model.test.model.utils.ProductBuilder;
-import com.citizenweb.marketplace.model.test.model.utils.UserBuilder;
+import com.citizenweb.marketplace.model.utils.EntityBuilderService;
+import com.citizenweb.marketplace.model.utils.ProductBuilder;
+import com.citizenweb.marketplace.model.utils.UserBuilder;
 import org.hibernate.engine.jdbc.BlobProxy;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

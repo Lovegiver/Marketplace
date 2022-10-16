@@ -1,13 +1,13 @@
-package com.citizenweb.marketplace.model.test.model;
+package com.citizenweb.marketplace.model;
 
 import com.citizenweb.marketplace.model.enums.AddressType;
 import com.citizenweb.marketplace.model.enums.UserType;
 import com.citizenweb.marketplace.model.model.Address;
 import com.citizenweb.marketplace.model.model.Buyer;
 import com.citizenweb.marketplace.model.model.User;
-import com.citizenweb.marketplace.model.test.model.utils.AddressBuilder;
-import com.citizenweb.marketplace.model.test.model.utils.EntityBuilderService;
-import com.citizenweb.marketplace.model.test.model.utils.UserBuilder;
+import com.citizenweb.marketplace.model.utils.AddressBuilder;
+import com.citizenweb.marketplace.model.utils.EntityBuilderService;
+import com.citizenweb.marketplace.model.utils.UserBuilder;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.slf4j.Logger;

@@ -1,4 +1,4 @@
-package com.citizenweb.marketplace.model.test.model.utils;
+package com.citizenweb.marketplace.model.utils;
 
 public interface EntityBuilderService<T> {
 

@@ -1,4 +1,4 @@
-package com.citizenweb.marketplace.model.test.model.utils;
+package com.citizenweb.marketplace.model.utils;
 
 import com.citizenweb.marketplace.model.model.Product;
 import com.citizenweb.marketplace.model.model.Seller;
